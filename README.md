@@ -93,7 +93,7 @@ This repository demonstrates my understanding and practical application of scien
 
 9. Author
 Student Name: Suleyman Mohamed
-Collins brian Registration Number: BSCCS/2025/66306
+Registration Number: BSCCS/2025/66306
 40048 Course: Bachelor of Science in Computer Science
 Institution: Mount Kenya University
 Unit: BIT 2118 – Scientific Computing
