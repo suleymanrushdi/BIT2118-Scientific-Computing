@@ -1,0 +1,21 @@
+
+# Task 20: Random Numbers and Monte Carlo Methods
+
+## Description
+This task demonstrates the Monte Carlo method using
+random number generation.
+
+## Application
+The program estimates the mathematical value of Pi
+using randomly generated points.
+
+## Technologies
+- Python
+- Random module
+- Math module
+
+## Method
+Monte Carlo Simulation.
+
+## Execution
+python monte-carlo.py
